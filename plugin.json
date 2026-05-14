@@ -10,6 +10,7 @@
       "version": 1,
       "source": "https://chat.deepseek.com",
       "path": "https://raw.githubusercontent.com/abc14h-cmyk/Deepseek-trans/main/deepseek-translate.zip",
+      "icon": "https://chat.deepseek.com/favicon.ico",
       "description": "Dịch văn bản bằng DeepSeek AI",
       "type": "translate"
     }
