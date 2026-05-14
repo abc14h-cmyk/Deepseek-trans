@@ -8,8 +8,8 @@
       "name": "DeepSeek Translate",
       "author": "abc14h-cmyk",
       "version": 1,
-      "source": "https://platform.deepseek.com/api_keys",
-      "path": "https://raw.githubusercontent.com/abc14h-cmyk/Deepseek-trs/main/deepseek-translate.zip",
+      "source": "https://chat.deepseek.com",
+      "path": "https://raw.githubusercontent.com/abc14h-cmyk/Deepseek-trans/main/deepseek-translate.zip",
       "description": "Dịch văn bản bằng DeepSeek AI",
       "type": "translate"
     }
